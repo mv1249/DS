@@ -1,3 +1,3 @@
 # DS
 
-Algorithms starter in Python/Java
+Algorithms starter in Java
